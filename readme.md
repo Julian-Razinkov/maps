@@ -1,0 +1,1 @@
+Simple project with googlemaps integration to uderstand basics of typescript
